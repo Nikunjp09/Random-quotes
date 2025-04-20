@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+        align-items: center;
+        height: 100px;   
+}
+
+p{
+    font-size: large;
+}
+
+div{
+    background-color:rosybrown;
+    text-align: center;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 8px 10px 
+}
+
+button{
+    padding:10px;
+    margin-top: 10px;
+    font-size:large;
+    background-color:crimson;
+    color:whitesmoke;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:darkgreen;
+    color: black;
+}
